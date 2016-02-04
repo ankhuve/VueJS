@@ -1,0 +1,21 @@
+#app{
+    margin-top: 2rem;
+}
+
+li{
+    list-style: none;
+
+}
+
+#addTodo{
+    margin-top: 2rem;
+}
+
+.todoItemContainer{
+    line-height: 4rem;
+    height: 4rem;
+}
+
+#deleteLastTodo{
+    margin-top: 1rem;
+}

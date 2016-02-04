@@ -1,0 +1,27 @@
+{
+  "name": "vuejs",
+  "version": "1.0.0",
+  "description": "VueJS learning",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "vue": "^1.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankhuve/VueJS.git"
+  },
+  "keywords": [
+    "vuejs"
+  ],
+  "author": "Erik Forsberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankhuve/VueJS/issues"
+  },
+  "homepage": "https://github.com/ankhuve/VueJS#readme"
+}
